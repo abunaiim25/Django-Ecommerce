@@ -1,0 +1,25 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.active{
+    font-weight: 800;
+}
+
+.checkoutform label{
+    font-size: 16px!important;
+    font-weight: 600;
+}
+.checkoutform input{
+    font-size: 16px!important;
+}
+
+.whatsapp{
+    position: fixed!important;
+    bottom: 5%!important;
+    left: 3%!important;
+}
